@@ -1,7 +1,13 @@
 {
   "expo": {
     "name": "social-media-app",
-    "slug": "social-media-app",
-    "version": "1.0.0"
+    "slug": "shay-social-media-app",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e63c3813-76f2-40c0-9e20-c8f3f78c7a54"
+      }
+    },
+    "owner": "ramsey510"
   }
 }
